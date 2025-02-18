@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(4, 12, 101);
+}
+
+h1 {
+  background-color: wheat;
+  color: rgb(246, 234, 4);
+  text-align: center;
+  padding: 50px;
+  }
+
+p {
+  font-family: verdana;
+  font-size: 24px;
+}
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
