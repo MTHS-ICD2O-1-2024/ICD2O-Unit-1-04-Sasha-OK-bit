@@ -10,7 +10,11 @@ h1 {
   }
 
 p {
-  font-family: verdana;
+  font-family: Segoe UI;
   font-size: 24px;
 }
 
+p2 {
+  text-align: center;
+  padding: 100px;
+}
